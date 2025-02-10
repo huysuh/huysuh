@@ -2,8 +2,8 @@
 
 ## hi 👋
 
-<h3> im huys </h3>
-<h5> developer, 17 </h5>
+#### im huys
+developer, 17
 
 <img src="https://abrudz.github.io/logos/Python.svg" alt="logo" width="20"/> <img src="https://abrudz.github.io/logos/JS.svg" alt="logo" width="20"/>  <img src="https://abrudz.github.io/logos/Java.svg" alt="logo" width="20"/> <img src="https://abrudz.github.io/logos/Lua.svg" alt="logo" width="20"/> <img src="https://docs.skriptlang.org/assets/icon.png" alt="logo" width="20"/>
 
